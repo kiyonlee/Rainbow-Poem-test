@@ -8,5 +8,6 @@ Green
 Yellow
 Red
 Indigo
+Recycle!
 These are test
 And the Unicorn
